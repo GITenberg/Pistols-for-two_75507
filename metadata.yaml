@@ -1,0 +1,47 @@
+_repo: Pistols-for-two_75507
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Mencken, H. L. (Henry Louis)
+    aliases:
+    - Mencken, Henry Louis
+    - Hatteras, Owen
+    - Mencken, Henry L.
+    birthdate: 1880
+    deathdate: 1956
+    gutenberg_agent_id: '578'
+    url: http://www.gutenberg.org/2009/agents/578
+    wikipedia: https://en.wikipedia.org/wiki/H._L._Mencken
+  - agent_name: Nathan, George Jean
+    birthdate: 1882
+    deathdate: 1958
+    gutenberg_agent_id: '9219'
+    url: http://www.gutenberg.org/2009/agents/9219
+    wikipedia: https://en.wikipedia.org/wiki/George_Jean_Nathan
+description: Owen Hatteras is the pseudonym of H. L. Mencken and G. J. Nathan. The
+  book contains a biography of Nathan, introductory and closing remarks by Mencken
+  and a biography of Mencken by Nathan. cf. Frey, Carroll. A bibliography of the writings
+  of H. L. Mecken, Philadelphia, 1924, p. 41-42.
+gutenberg_issued: '2025-03-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75507'
+  lccn: '17031075'
+language: en
+pgterms:marc905: 20241216085757hatteras
+pgterms:marc906: '1917'
+pgterms:marc907: US
+production_note: Bob Taylor and The Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aNew York, NY :$bAlfred A. Knopf, $c1917.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Authors, American -- 20th century -- Biography'
+- !lcsh 'Nathan, George Jean, 1882-1958'
+- !lcsh 'Mencken, H. L. (Henry Louis), 1880-1956'
+- !lcc 'PS'
+- GITenberg
+title: Pistols for two
+url: http://www.gutenberg.org/ebooks/75507
